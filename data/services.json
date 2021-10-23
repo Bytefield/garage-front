@@ -1,0 +1,34 @@
+{ "services":
+    [
+        {
+            "id": "61026f685d380c14f07cb450",
+            "name": "Aceite",
+            "description": "Cambio de aceite",
+            "price": 100
+        },
+        {
+            "id": "61026f795d380c14f07cb452",
+            "name": "Filtros",
+            "description": "Cambio de filtros",
+            "price": 50
+        },
+        {
+            "id": "61026f905d380c14f07cb454",
+            "name": "Ruedas",
+            "description": "Cambio de ruedas",
+            "price": 250
+        },
+        {
+            "id": "61026fc25d380c14f07cb456",
+            "name": "Revision",
+            "description": "Revision periodica",
+            "price": 25
+        },
+        {
+            "id": "6107d4132044821ac8aa68ae",
+            "name": "Lunas",
+            "description": "Cambio de lunas",
+            "price": 400
+        }
+    ]
+}
